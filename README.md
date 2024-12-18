@@ -1,5 +1,5 @@
 # Material Management Module for Odoo 14
-<img src="docs/erd_diagram.png" alt="ERD Diagram" width="600">
+<img src="docs/erd_diagram.PNG" alt="ERD Diagram" width="600">
 
 
 ## Features
